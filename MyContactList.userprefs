@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4781AF97-48F6-4718-A981-C9B56A8B276C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyContactList PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC15D6A5-5A3B-4F64-A5D0-EE02B20F265D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyContactList/ViewController.cs">
+    <Files>
+      <File FileName="MyContactList/ViewController.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

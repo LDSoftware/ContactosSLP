@@ -18,33 +18,33 @@ namespace MyContactList
 			txtIngresos.Delegate = new UITextNumberValidate();
 			txtEgresos.Delegate = new UITextNumberValidate();
 
-			//btnCalcular.TouchUpInside += ((sender, e) =>
-			//{
+			btnCalcular.TouchUpInside += ((sender, e) =>
+			{
 
-			//// Create a new Alert Controller
-			//UIAlertController actionSheetAlert = UIAlertController.Create("Action Sheet", "Select an item from below", UIAlertControllerStyle.ActionSheet);
+			// Create a new Alert Controller
+			UIAlertController actionSheetAlert = UIAlertController.Create("Action Sheet", "Select an item from below", UIAlertControllerStyle.ActionSheet);
 
-			//// Add Actions
-			//actionSheetAlert.AddAction(UIAlertAction.Create("Item One", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item One pressed.")));
+			// Add Actions
+			actionSheetAlert.AddAction(UIAlertAction.Create("Item One", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item One pressed.")));
 
-			//	actionSheetAlert.AddAction(UIAlertAction.Create("Item Two", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item Two pressed.")));
+				actionSheetAlert.AddAction(UIAlertAction.Create("Item Two", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item Two pressed.")));
 
-			//	actionSheetAlert.AddAction(UIAlertAction.Create("Item Three", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item Three pressed.")));
+				actionSheetAlert.AddAction(UIAlertAction.Create("Item Three", UIAlertActionStyle.Default, (action) => Console.WriteLine("Item Three pressed.")));
 
-			//	actionSheetAlert.AddAction(UIAlertAction.Create("Cancel", UIAlertActionStyle.Cancel, (action) => Console.WriteLine("Cancel button pressed.")));
+				actionSheetAlert.AddAction(UIAlertAction.Create("Cancel", UIAlertActionStyle.Cancel, (action) => Console.WriteLine("Cancel button pressed.")));
 
-			//// Required for iPad - You must specify a source for the Action Sheet since it is
-			//// displayed as a popover
-			//UIPopoverPresentationController presentationPopover = actionSheetAlert.PopoverPresentationController;
-			//	if (presentationPopover != null)
-			//	{
-			//		presentationPopover.SourceView = this.View;
-			//		presentationPopover.PermittedArrowDirections = UIPopoverArrowDirection.Up;
-			//	}
+			// Required for iPad - You must specify a source for the Action Sheet since it is
+			// displayed as a popover
+			UIPopoverPresentationController presentationPopover = actionSheetAlert.PopoverPresentationController;
+				if (presentationPopover != null)
+				{
+					presentationPopover.SourceView = this.View;
+					presentationPopover.PermittedArrowDirections = UIPopoverArrowDirection.Up;
+				}
 
-			//// Display the alert
-			//this.PresentViewController(actionSheetAlert, true, null);
-			//});
+			// Display the alert
+			this.PresentViewController(actionSheetAlert, true, null);
+			});
 
 
 			//var bounds = UIScreen.MainScreen.Bounds;

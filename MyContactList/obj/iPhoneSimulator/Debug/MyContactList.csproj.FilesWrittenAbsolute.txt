@@ -1,0 +1,15 @@
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/optimized/
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/MyContactList.exe.mdb
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/MyContactList.exe
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/MyContactList.exe
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/obj/iPhoneSimulator/Debug/MyContactList.exe.mdb
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.dll
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.iOS.Bindings.dll
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Analytics.iOS.Bindings.dll
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/armandovillagomez/Projects/MyContactList/MyContactList/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
